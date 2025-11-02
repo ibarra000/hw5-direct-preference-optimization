@@ -1,0 +1,30 @@
+# Virtual Environment
+.venv/
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# IDE-specific files
+.idea/
+.vscode/
+
+# Test/Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+
+# Cache
+.cache/
+
+# Other common Python exclusions
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
