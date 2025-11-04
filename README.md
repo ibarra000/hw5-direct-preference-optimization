@@ -4,7 +4,7 @@ This repository contains an implementation and analysis of **[Direct Preference 
 
 This project explores the DPO algorithm as a modern alternative to traditional Reinforcement Learning from Human Feedback (RLHF).
 
-## 📄 Project Report
+## Project Report
 
 For a complete breakdown of the methodology, findings, and analysis, please see the full project report.
 
